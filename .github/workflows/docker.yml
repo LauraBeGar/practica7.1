@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: | #
             laurabe/practica7.1:latest 
-            ghcr.io/LauraBeGar/practica7.1:latest 
+            ghcr.io/laurabegar/practica7.1:latest 
